@@ -1,0 +1,58 @@
+/* Your custom styles */
+body{
+    font-family: "Helvetica Neue",sans-serif;
+    font-size: 18px;
+}
+
+.dropdown-item:hover{
+    background: linear-gradient(45deg,darkslategray,black);
+    color: whitesmoke !important;
+}
+
+.bg-light-blue{
+    background-color: #cea2f8;
+}
+.bg-light-green{
+    background-color: lightgreen;
+}
+.bg-light-orange{
+    background-color: lightsalmon;
+}
+
+.bg-teal  , .btn-teal{
+    background-color:#1a5e5e !important;
+}
+.text-teal{
+    color: #1a5e5e;
+}
+.profile-image{
+    border: 5px solid #1a5e5e;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #1a5e5e;
+}
+
+.btn-primary , .bg-primary{
+     background: linear-gradient(45deg,darkslategray,blueviolet);
+ }
+.btn-info , .bg-info{
+    background: linear-gradient(45deg,darkslategray,lightblue);
+}
+.btn-success , .bg-success{
+    background: linear-gradient(45deg,darkslategray,limegreen);
+}
+.btn-warning , .bg-warning{
+    background: linear-gradient(45deg,darkslategray,coral);
+}
+.btn-danger , .bg-danger{
+    background: linear-gradient(45deg,darkslategray,red);
+}
+.btn-light , .bg-light{
+    background: linear-gradient(45deg,lightgrey,lightgrey);
+}
+.btn-dark , .bg-dark{
+    background: linear-gradient(45deg,darkslategray,black);
+}
+.btn-secondary , .bg-secondary{
+    background: linear-gradient(45deg,darkslategray,purple);
+}
+
